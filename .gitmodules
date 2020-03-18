@@ -4,3 +4,6 @@
 [submodule "uWebSockets"]
 	path = uWebSockets
 	url = https://github.com/stereoboy/uWebSockets
+[submodule "beast"]
+	path = beast
+	url = https://github.com/boostorg/beast.git
