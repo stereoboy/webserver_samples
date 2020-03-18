@@ -1,3 +1,6 @@
 [submodule "flask-video-streaming"]
 	path = flask-video-streaming
 	url = https://github.com/miguelgrinberg/flask-video-streaming
+[submodule "uWebSockets"]
+	path = uWebSockets
+	url = https://github.com/stereoboy/uWebSockets
